@@ -114,3 +114,5 @@ exclude: [
   "reveal.js/LICENSE",
   "reveal.js/package.json"
 ]
+
+theme: jekyll-theme-tactile
